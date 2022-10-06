@@ -12,4 +12,4 @@
 
 ## Application Demo:
 
-![alt text](https://github.com/muhammad-kazim/pcb-demo/tree/master/images/demo_overview.png?raw=true)
+![alt text](https://github.com/muhammad-kazim/pcb-demo/blob/master/images/demo_overview.png?raw=true)
