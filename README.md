@@ -5,7 +5,7 @@
 * Clone Repository
 * Add checkpoints (available on request)
 * (Recommended) Create virtual enviroment and activate it
-* RUN pip install -r </path/to/requrements.txt>
+* RUN pip install -r </path/to/requirements.txt>
 * RUN streamlit run main.py
 * Use webapp for inference
 
